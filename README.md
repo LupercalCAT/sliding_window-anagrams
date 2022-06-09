@@ -1,1 +1,1 @@
-# sliding_window-anagrams
+# sliding_window-min_substring
